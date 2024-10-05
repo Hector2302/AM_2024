@@ -20,3 +20,5 @@ Viñetas
 _texto italica_
 
 ***texto italica negrita*** 
+
+![Ciclo de Vida de Una Android App](https://media.geeksforgeeks.org/wp-content/uploads/20210303165235/ActivityLifecycleinAndroid-601x660.jpg)
